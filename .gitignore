@@ -37,3 +37,19 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
+.idea/.gitignore
+.idea/artifacts/
+.idea/azureSettings.xml
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/scala_compiler.xml
+.idea/sonarlint/
+.idea/vcs.xml
+WordCountExample.iml
+data/
